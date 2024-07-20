@@ -1,0 +1,31 @@
+.class-uncool,
+.class-cool {
+    background-color: rgb(255, 167, 167);
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.class-uncool {
+    font-size: 18px;
+}
+
+.class-cool {
+    font-size: 24px;
+}
+
+#second,
+#fourth {
+    text-align: left;
+}
+
+#second {
+    background-color: white;
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
