@@ -1,0 +1,19 @@
+.click-yes,
+.click-no {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 18px;
+}
+
+.click-yes {
+    background-color: black;
+    color: white;
+}
+
+.click-no {
+    background-color: yellow;
+    color: black; 
+}
+
+.float-parent {
+    width: 50%
+}
